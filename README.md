@@ -1,6 +1,5 @@
 # Food Sales Predictions
-For this project we are predicting the sales of various products across different stores, depending on their size, weight, visibility and other categories. 
-
+For this project we are using Machine Learning using Python, in order to predict the sales of the various Supermarket OUtlets depending on the features embeded in the data set for each product, type of store, location and many more. 
 
 By: Diana Valladares
 
@@ -33,7 +32,7 @@ We can also see the Decision Regression Trees Max depth where our R2 is 0.67 on 
 
 Reccomendations
 
-I would reccomend using the linear regression model as it is predicitng a bit better than decision trees or Random Forrest Predictions
+I would reccomend using the linear regression model as it is predicitng a bit better than decision trees or Random Forrest Predictions. 
 
 Limitation & Next Steps
 
