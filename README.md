@@ -21,8 +21,15 @@ A standard average for sales throughtout the years, with the exception of the fi
 The linear regression equation returned a correlation coefficient of 0.67 - semistrong correlation. 
 The RandomForrest Regression model returns a correlation coeficient or an R-value of 0.94 on the training but 0.24 on the test.  
 
+<img width="390" alt="Screen Shot 2022-04-28 at 8 47 05 PM" src="https://user-images.githubusercontent.com/96541076/165874708-0645cb3e-a23a-44df-b5d2-d9253503ddde.png">
 
+Slight correlation for Item_Outlet Sales and Item_MRP
 
+<img width="429" alt="Screen Shot 2022-04-28 at 9 05 39 PM" src="https://user-images.githubusercontent.com/96541076/165874884-90ade1d6-85d6-4e48-a2f8-d81f1c8a83a9.png">
+
+We can also see the Decision Regression Trees Max depth where our R2 is 0.67 on the train data. 
+
+<img width="555" alt="Screen Shot 2022-04-28 at 9 07 16 PM" src="https://user-images.githubusercontent.com/96541076/165875005-7dc06ac4-b00c-48f9-bfe6-ac3aee1c0813.png">
 
 Reccomendations
 
