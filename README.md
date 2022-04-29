@@ -1,5 +1,5 @@
 # Food Sales Predictions
-For this project we are using Machine Learning using Python, in order to predict the sales of the various Supermarket OUtlets depending on the features embeded in the data set for each product, type of store, location and many more. 
+For this project we employ Machine Learning techniques for Data Visualization using Python, in order to predict the sales of the items of the various Supermarket Outlets depending on the features embeded in the data set for each product, type of store, location and many more. 
 
 By: Diana Valladares
 
