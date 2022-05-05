@@ -41,8 +41,7 @@ RMSE is the square root of the mean sqaured errors (MSE) and it usually has to l
 
 Reccomendations & Limitations
 
-I would reccomend using Forest Regression Model for this data set as it fits better on both Training and predicitons, Testing data
+I would reccomend using Forest Regression Model for this data set as it fits better on both Training and the Testing predictions. However, 0.55 on the testing predicions does not make it a model ready for preditions. It limits us to only 55% of the values being correct. Random Forest Regression models also pose some limitations as they tend to be slow if there is we are manipulating large datasets. 
 
 Next Steps
-
-Random Forrest Prediciton model is not ready to use - high variance, low bias. 
+Our next steps should be checking to see whether certain variables are being used or not being used properly, if we are using unnecessary variables, poor Data wrangling, or failiure to account for certain categorical data. 
