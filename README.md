@@ -29,6 +29,8 @@ Slight correlation for Item_Outlet Sales and Item_MRP
 Random Forest Regression was the prefered model occupied for this dataset. Forest Regression is a supervised learning model in machine learning. Random forest combines Bootstrapped Data and Decision Trees to form precitions in order to provide better results. If the data is large it can be quite slow. 
 Between all the models, rf, Random Forest Regression model presented itself to be the most compatible with this dataset. It had established a .94 R2 correlation for the training data, along with a 0.55 R2 for the Testing data after tunning the model. We found the following results: 
 
+<img width="716" alt="Screen Shot 2022-05-05 at 12 32 29 PM" src="https://user-images.githubusercontent.com/96541076/166997514-e1b9a3ba-9327-42dd-b2c0-d123c6ecf353.png">
+
 <img width="819" alt="Screen Shot 2022-05-05 at 12 32 43 PM" src="https://user-images.githubusercontent.com/96541076/166992787-08454940-0180-4f56-a168-95bd71ba2dcb.png">
 
 MAE is the mean absolute value of the errors or the average error. The average error in this case is 298.00 which means tha this value is the difference between the training and testing data extracted by the averaged absolue difference over the data set. 
