@@ -29,6 +29,8 @@ Slight correlation for Item_Outlet Sales and Item_MRP
 Random Forest Regression was the prefered model occupied for this dataset. Forest Regression is a supervised learning model in machine learning. Random forest combines Bootstrapped Data and Decision Trees to form precitions in order to provide better results. If the data is large it can be quite slow. 
 Between all the models, rf, Random Forest Regression model presented itself to be the most compatible with this dataset. It had established a .94 R2 correlation for the training data, along with a 0.55 R2 for the Testing data after tunning the model. We found the following results: 
 
+<img width="819" alt="Screen Shot 2022-05-05 at 12 32 43 PM" src="https://user-images.githubusercontent.com/96541076/166992787-08454940-0180-4f56-a168-95bd71ba2dcb.png">
+
 MAE is the mean absolute value of the errors or the average error. The average error in this case is 298.00 which means tha this value is the difference between the training and testing data extracted by the averaged absolue difference over the data set. 
 
 MSE is the mean squared error, useful for optimization. This value is basically the value squared of the RMSE (RMSE is easier to understand). 
@@ -37,10 +39,10 @@ R^2 is the coefficient of determination of correlation coeficient as we call it 
 
 RMSE is the square root of the mean sqaured errors (MSE) and it usually has to lie within the range of the targeted data. In this case our RMSE is 1'113.13  for the testing and 431.00 for the training which lies within the range of the "Item_Outlet_Sales" values. 
 
-Reccomendations
+Reccomendations & Limitations
 
-I would reccomend using the linear regression model as it is predicitng a bit better than decision trees or Random Forrest Predictions. 
+I would reccomend using Forest Regression Model for this data set as it fits better on both Training and predicitons, Testing data
 
-Limitation & Next Steps
+Next Steps
 
 Random Forrest Prediciton model is not ready to use - high variance, low bias. 
